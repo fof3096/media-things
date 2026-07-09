@@ -1,4 +1,4 @@
-# MediaTest
+# MediaTest (vanilla)
 
 Here 🐢 I will test (or trying) all media data in the Web, kust like VIDEOS, AUDIO, GIFT, in the other things that I will probably known more later.
 
