@@ -2,14 +2,6 @@
 
 Here 🐢 I will test (or trying) all media data in the Web, kust like VIDEOS, AUDIO, GIFT, in the other things that I will probably known more later.
 
-## Code scaffolding
-
-Angular CLI includes powerful code scaffolding tools. To generate a new component, run:
-
-```bash
-ng generate component component-name
-```
-
 For a complete list of available schematics (such as `components`, `directives`, or `pipes`), run:
 
 ```bash
